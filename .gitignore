@@ -36,3 +36,6 @@ phpunit.phar
 /.vagrant
 # composer lock file
 composer.lock
+.gitignore
+.idea/vcs.xml
+.idea/workspace.xml
