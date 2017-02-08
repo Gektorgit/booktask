@@ -1,0 +1,51 @@
+.navbar-my{
+    background: #008000;
+}
+.navbar-my ul li a{
+    color: #fff;
+}
+.navbar-my ul li a:hover{
+    background: #333;
+}
+.navbar-my .navbar-brand{
+    color: #fff;
+}
+dd #img, img #modal_img{
+    width: 320px;
+    height: 240px;
+}
+
+
+dd #description{
+    width: 400px;
+}
+dt #Yes{
+    color: green;
+}
+dt #no{
+    color: red;
+}
+
+.sort {
+    margin:20px 0px 0px 20px;
+}
+
+#fon {
+    display:none;
+    opacity:0.8;
+    position:absolute;
+    width:700px;
+    height:100%;
+    z-index:100;
+    background-color:white
+}
+#load {
+    background-image: url("images/loading17.gif");
+    position:fixed;
+    left:40%;
+    top:50%;
+    width:65px;
+    height:65px;
+    z-index:150;
+    display:none;
+}
